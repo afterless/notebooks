@@ -11,6 +11,7 @@ dependencies = [
     "regex>=2024.11.6",
     "torch>=2.5.1",
     "tqdm>=4.67.1",
+    "transformers>=4.48.0",
     "wandb>=0.19.2",
 ]
 
